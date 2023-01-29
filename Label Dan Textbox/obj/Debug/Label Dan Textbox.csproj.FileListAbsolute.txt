@@ -1,0 +1,9 @@
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\obj\Debug\Label Dan Textbox.csprojResolveAssemblyReference.cache
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\obj\Debug\Label Dan Textbox.csproj.GenerateResource.Cache
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Achmad Faris Zubaidi\Documents\Visual Studio 2015\Projects\Label Dan Textbox\Label Dan Textbox\obj\Debug\WindowsFormsApplication1.Form1.resources
